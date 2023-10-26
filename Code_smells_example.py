@@ -2,7 +2,7 @@
 def get_discount_rate(price):
     if price > 100:
         return 0.9
-    else    
+    else:    
         return 0.95
 
 def calculate_total_price(items):
