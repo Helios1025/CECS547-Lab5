@@ -1,6 +1,6 @@
 #Code Smells Example for long method
 def get_discount_rate(price):
-    if price > 100
+    if price > 100:
         return 0.9
     else    
         return 0.95
